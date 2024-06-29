@@ -1,5 +1,5 @@
 # Boston-AirBnB-Listing-Analysis
-# Boston Airbnb Listing Analysis
+
 
 ### Medium Blog Post
 You can read the Medium blog post summarizing this analysis here: [Boston Airbnb Listing Blog Post](https://medium.com/@yash.nayi9624/boston-airbnb-listing-blog-post-08ce24c9c804)
