@@ -40,12 +40,12 @@ This project uses Python for data analysis and visualization. The following libr
 
 This project would not have been possible without the valuable resources and inspiration from various sources:
 
-   **Airbnb:** For providing the data used in this analysis.
-   **Kaggle:** For hosting and curating the dataset.
-   **Previous Analysts:** Special thanks to the authors of the Seattle Airbnb dataset analysis, whose work inspired this project.
-   **Python Community:** For the extensive libraries and support that made the data analysis and visualization possible.
-   **Medium:** For providing a platform to share and publish the insights gained from this project.
-   **Data Science and Machine Learning Enthusiasts:** For their continuous contributions and sharing of knowledge, which significantly aided in the learning and implementation of this project.
-   **Friends and Family:** For their encouragement and support throughout the development of this project.
+   - **Airbnb:** For providing the data used in this analysis.
+   - **Kaggle:** For hosting and curating the dataset.
+   - **Previous Analysts:** Special thanks to the authors of the Seattle Airbnb dataset analysis, whose work inspired this project.
+   - **Python Community:** For the extensive libraries and support that made the data analysis and visualization possible.
+   - **Medium:** For providing a platform to share and publish the insights gained from this project.
+   - **Data Science and Machine Learning Enthusiasts:** For their continuous contributions and sharing of knowledge, which significantly aided in the learning and implementation of this project.
+   - **Friends and Family:** For their encouragement and support throughout the development of this project.
 
 Thank you to everyone who contributed directly or indirectly to this project. Your efforts and resources have been invaluable.
