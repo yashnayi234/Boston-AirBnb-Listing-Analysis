@@ -1,4 +1,4 @@
-# Boston-AirBnB-Listing-Analysis
+# Boston AirBnB Listing Analysis
 
 
 ### Medium Blog Post
