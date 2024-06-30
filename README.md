@@ -29,9 +29,12 @@ This project uses Python for data analysis and visualization. The following libr
    - Jupyter notebook containing the complete analysis, answers to the questions, explanations, and visualizations.
 
 2. **listings.csv**
-   - Original dataset in CSV format, containing information about Airbnb listings in Boston.
+   - The original dataset is in CSV format and contains information about Airbnb listings in Boston.
 
 ### Getting Started
 1. Clone this repository using:
    ```bash
    git clone https://github.com/yashnayi234/Boston-AirBnb-Listing-Analysis.git
+
+### Acknowledgement
+
