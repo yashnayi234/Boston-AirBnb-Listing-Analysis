@@ -30,11 +30,26 @@ This project uses Python for data analysis and visualization. The following libr
 
 2. **listings.csv**
    - The original dataset is in CSV format and contains information about Airbnb listings in Boston.
+  
+3. **requirements.txt**
+   - This code runs on Python version 3.*. Also, a list of required libraries and their versions. 
+
+     `pip install -r requirements.txt`
 
 ### Getting Started
 1. Clone this repository using:
    ```bash
    git clone https://github.com/yashnayi234/Boston-AirBnb-Listing-Analysis.git
+
+### Summary of Results
+
+Pricing and Occupancy Rates: The analysis revealed that pricing and occupancy rates vary significantly across different neighborhoods in Boston. Listings in downtown areas tend to have higher prices and higher occupancy rates.
+
+Amenities and Price: A positive correlation exists between the number of amenities and the listing price. Listings with more amenities tend to be priced higher.
+
+Booking Ratios and Revenue: Neighborhoods such as Back Bay and Beacon Hill have higher booking ratios and generate more revenue compared to other areas.
+
+Influential Features: Features such as location, number of amenities, property type, and review scores are the most influential factors affecting the price of Airbnb listings.
 
 ### Acknowledgements
 
