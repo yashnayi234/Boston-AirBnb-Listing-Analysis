@@ -1,0 +1,5 @@
+numpy==1.24.3  # Minimum version of NumPy allowed (for numerical computing)
+pandas==1.5.3  # Latest compatible version of Pandas (for data analysis)
+matplotlib==3.7.1 # This library required and version compatible for data visualization
+seaborn==0.12.2 # This library required and version compatible for data visualization
+scikit-learn==1.2.2 # Minimum version of sklearn required to do machine learning 
